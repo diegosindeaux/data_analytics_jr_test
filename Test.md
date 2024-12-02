@@ -1,12 +1,18 @@
 **Questão 0 - Documentos**
 Data.zip -> Tabelas csv tratadas e originais.
+
 data_analyst.dump -> Dump do banco de dados.
+
 Tratamento.md -> Informações breves de como dados foram tratados.
+
 TratamentoEscolas.ipynb -> Tratando tabelas de escolas antes de colocar no banco de dados.
+
 TratamentoPerfilEducandos.ipynb -> Tratando tabelas de educandos antes de colocar no banco de dados.
+
 creating.md -> Falando sobre resultados obtidos.
-creating.ipynb -> Puxando api do banco de dados e obtendo dados relevantes.<img width="1440" alt="Captura de Tela 2024-12-02 às 11 07 29" src="https://github.com/user-attachments/assets/ae21ec57-3734-4fb0-b96e-2b22842da956">
-<img width="1440" alt="Captura de Tela 2024-12-02 às 11 07 29" src="https://github.com/user-attachments/assets/00374820-6352-4f12-b002-1e5840abda8d">
+
+creating.ipynb -> Puxando api do banco de dados e obtendo dados relevantes.
+<img width="1440" alt="Captura de Tela 2024-12-02 às 11 07 29" src="https://github.com/user-attachments/assets/ae21ec57-3734-4fb0-b96e-2b22842da956">
 
 
 **Questão 1 - Utilize Python**
