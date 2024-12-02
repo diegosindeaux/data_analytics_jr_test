@@ -1,3 +1,12 @@
+**Questão 0 - Documentos**
+Data.zip -> Tabelas csv tratadas e originais.
+data_analyst.dump -> Dump do banco de dados.
+Tratamento.md -> Informações breves de como dados foram tratados.
+TratamentoEscolas.ipynb -> Tratando tabelas de escolas antes de colocar no banco de dados.
+TratamentoPerfilEducandos.ipynb -> Tratando tabelas de educandos antes de colocar no banco de dados.
+creating.md -> Falando sobre resultados obtidos.
+creating.ipynb -> Puxando api do banco de dados e obtendo dados relevantes.
+
 **Questão 1 - Utilize Python**
 
 Como falado anteriormente, a empresa utiliza Python em todo seu processo, em razão disso, essa foi a única linguagem que foi utilizada no processo inteiro.
